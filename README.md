@@ -1,0 +1,1 @@
+standalone application needs to run using spark-submit <file.py>

@@ -1,0 +1,233 @@
+=SI(
+    Y(
+        I2 = "LABEL SOLUTIONS SA DE CV",
+        AR2 = "NATIONAL ACCOUNTS SALES",
+        AT2 = "NATIONAL ACCOUNT SALES"
+    ),
+    "PPS SALES",
+    SI(
+        Y(
+            I2 = "GRAFICOS DIGITALES AVANZADOS, S.A. DE C.V",
+            AR2 = "NATIONAL ACCOUNTS SALES",
+            AT2 = "NATIONAL ACCOUNT SALES"
+        ),
+        "PPS SALES",
+        SI(
+            Y(
+                I2 = "PRO DIGITAL PRINTING, SA DE CV",
+                AR2 = "PRE & POST SUPPORT",
+                AT2 = "PRE&POST SUPPORT"
+            ),
+            "PPS SALES",
+            SI(
+                Y(
+                    I2 = "DESARROLLO GRÁFICO EDITORIAL SA DE CV",
+                    AR2 = "NATIONAL ACCOUNTS SALES",
+                    AT2 = "NATIONAL ACCOUNT SALES"
+                ),
+                "PPS SALES",
+                SI(
+                    Y(
+                        I2 = "SOLDECON, SA DE CV",
+                        AR2 = "NATIONAL ACCOUNTS SALES",
+                        AT2 = "NATIONAL ACCOUNT SALES"
+                    ),
+                    "PPS SALES",
+                    SI(
+                        Y(
+                            I2 = "LITHO FORMAS, SA DE CV",
+                            AR2 = "NATIONAL ACCOUNTS SALES",
+                            AT2 = "NATIONAL ACCOUNT SALES"
+                        ),
+                        "PPS SALES",
+                        SI(
+                            Y(
+                                I2 = "ACCOR SERVICIOS EMPRESARIALES, S.A. DE C.V.",
+                                AR2 = "NATIONAL ACCOUNTS SALES",
+                                AT2 = "NATIONAL ACCOUNT SALES"
+                            ),
+                            "PPS SALES",
+                            SI(
+                                Y(
+                                    I2 = "SERVICIO Y SOLUCION EN PLACAS SA DE CV",
+                                    AR2 = "NATIONAL ACCOUNT SALES",
+                                    AT2 = "NATIONAL ACCOUNT SALES"
+                                ),
+                                "PPS SALES",
+                                SI(
+                                    Y(
+                                        I2 = "Compañía de Operaciones de Nitrogeno, S.A.",
+                                        AR2 = "PPS SALES",
+                                        AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                    ),
+                                    "NATIONAL ACCOUNTS SALES",
+                                    SI(
+                                        Y(
+                                            I2 = "CONSORCIO MEXI GAS SA DE CV",
+                                            AR2 = "PPS SALES",
+                                            AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                        ),
+                                        "NATIONAL ACCOUNTS SALES",
+                                        SI(
+                                            Y(
+                                                I2 = " COTEMAR SA DE CV",
+                                                AR2 = "PPS SALES",
+                                                AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                            ),
+                                            "NATIONAL ACCOUNTS SALES",
+                                            SI(
+                                                Y(
+                                                    I2 = "ENERGIA MAYAKAN S DE RL DE CV",
+                                                    AR2 = "PPS SALES",
+                                                    AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                ),
+                                                "NATIONAL ACCOUNTS SALES",
+                                                SI(
+                                                    Y(
+                                                        I2 = " GASODUCTOS DEL BAJIO S DE RL DE CV",
+                                                        AR2 = "PPS SALES",
+                                                        AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                    ),
+                                                    "NATIONAL ACCOUNTS SALES",
+                                                    SI(
+                                                        Y(
+                                                            I2 = "GDF SUEZ MEXICO COMERCIALIZADO",
+                                                            AR2 = "PPS SALES",
+                                                            AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                        ),
+                                                        "NATIONAL ACCOUNTS SALES",
+                                                        SI(
+                                                            Y(
+                                                                I2 = "INTEGRACION DE SISTEMAS DE ACTUACION SA DE CV",
+                                                                AR2 = "PPS SALES",
+                                                                AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                            ),
+                                                            "NATIONAL ACCOUNTS SALES",
+                                                            SI(
+                                                                Y(
+                                                                    I2 = "IQOR GLOBAL SERVICES DE MEXICO SA DE CV",
+                                                                    AR2 = "PPS SALES",
+                                                                    AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                ),
+                                                                "NATIONAL ACCOUNTS SALES",
+                                                                SI(
+                                                                    Y(
+                                                                        I2 = "MOTOROLA SOLUTIONS DE MEXICO SA",
+                                                                        AR2 = "PPS SALES",
+                                                                        AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                    ),
+                                                                    "NATIONAL ACCOUNTS SALES",
+                                                                    SI(
+                                                                        Y(
+                                                                            I2 = " NATGASMEX SA DE CV",
+                                                                            AR2 = "PPS SALES",
+                                                                            AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                        ),
+                                                                        "NATIONAL ACCOUNTS SALES",
+                                                                        SI(
+                                                                            Y(
+                                                                                I2 = "OBERTHUR TECHNOLOGIES DE MEXICO S DE RL DE CV",
+                                                                                AR2 = "PPS SALES",
+                                                                                AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                            ),
+                                                                            "NATIONAL ACCOUNTS SALES",
+                                                                            SI(
+                                                                                Y(
+                                                                                    I2 = "RAWSON MEXICANA SA DE CV",
+                                                                                    AR2 = "PPS SALES",
+                                                                                    AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                ),
+                                                                                "NATIONAL ACCOUNTS SALES",
+                                                                                SI(
+                                                                                    Y(
+                                                                                        I2 = "REGUS MANAGEMENT DE MEXICO SA DE CV",
+                                                                                        AR2 = "PPS SALES",
+                                                                                        AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                    ),
+                                                                                    "NATIONAL ACCOUNTS SALES",
+                                                                                    SI(
+                                                                                        Y(
+                                                                                            I2 = "TAMAULIGAS SA DE CV",
+                                                                                            AR2 = "PPS SALES",
+                                                                                            AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                        ),
+                                                                                        "NATIONAL ACCOUNTS SALES",
+                                                                                        SI(
+                                                                                            Y(
+                                                                                                I2 = "TRACTEBEL DGJ SA DE CV",
+                                                                                                AR2 = "PPS SALES",
+                                                                                                AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                            ),
+                                                                                            "NATIONAL ACCOUNTS SALES",
+                                                                                            SI(
+                                                                                                Y(
+                                                                                                    I2 = "TRACTEBEL DIGAQRO SA DE CV",
+                                                                                                    AR2 = "PPS SALES",
+                                                                                                    AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                                ),
+                                                                                                "NATIONAL ACCOUNTS SALES",
+                                                                                                SI(
+                                                                                                    Y(
+                                                                                                        I2 = "TRACTEBEL ENERGIA DE MONTERREY S DE RL DE CV",
+                                                                                                        AR2 = "PPS SALES",
+                                                                                                        AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                                    ),
+                                                                                                    "NATIONAL ACCOUNTS SALES",
+                                                                                                    SI(
+                                                                                                        Y(
+                                                                                                            I2 = "TRACTEBEL ENERGIA DE PANUCO SA DE CV",
+                                                                                                            AR2 = "PPS SALES",
+                                                                                                            AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                                        ),
+                                                                                                        "NATIONAL ACCOUNTS SALES",
+                                                                                                        SI(
+                                                                                                            Y(
+                                                                                                                I2 = "TRACTEBEL GNP SA DE CV",
+                                                                                                                AR2 = "PPS SALES",
+                                                                                                                AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                                            ),
+                                                                                                            "NATIONAL ACCOUNTS SALES",
+                                                                                                            SI(
+                                                                                                                Y(
+                                                                                                                    I2 = "VWS MEXICO SA DE CV",
+                                                                                                                    AR2 = "PPS SALES",
+                                                                                                                    AT2 = "PRODUCTION PRINT SALES - DEFAULT"
+                                                                                                                ),
+                                                                                                                "NATIONAL ACCOUNTS SALES",
+                                                                                                                SI(
+                                                                                                                    Y(
+                                                                                                                        I2 = "ABASTECEDORA LUMEN, S.A DE C.V",
+                                                                                                                        AR2 = "LFS SALES",
+                                                                                                                        AT2 = "LFS SALES"
+                                                                                                                    ),
+                                                                                                                    "NATIONAL ACCOUNTS SALES",
+                                                                                                                    "OK"
+                                                                                                                )
+                                                                                                            )
+                                                                                                        )
+                                                                                                    )
+                                                                                                )
+                                                                                            )
+                                                                                        )
+                                                                                    )
+                                                                                )
+                                                                            )
+                                                                        )
+                                                                    )
+                                                                )
+                                                            )
+                                                        )
+                                                    )
+                                                )
+                                            )
+                                        )
+                                    )
+                                )
+                            )
+                        )
+                    )
+                )
+            )
+        )
+    )
+)
